@@ -1,9 +1,12 @@
 .top-section {
     background-color: lightblue;
+    min-height: 100vh;
 }
 .middle-section {
     background-color: lightcoral;
+    min-height: 100vh;
 }
 .bottom-section {
-    background-color:  lightslategray
+    background-color:  lightslategrey;
+    min-height: 100vh;
 }
