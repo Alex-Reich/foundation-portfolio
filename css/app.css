@@ -10,3 +10,10 @@
     background-color:  lightslategrey;
     min-height: 100vh;
 }
+.section-title {
+    max-height: 8vh;
+    padding: 3vh 1vh;
+}
+.headshot {
+    max-height: 500px;
+}
