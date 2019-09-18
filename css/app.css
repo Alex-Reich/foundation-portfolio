@@ -4,16 +4,21 @@
 }
 .middle-section {
     background-color: lightcoral;
-    min-height: 100vh;
+    min-height: 105vh;
 }
 .bottom-section {
     background-color:  lightslategrey;
     min-height: 100vh;
 }
 .section-title {
-    max-height: 8vh;
-    padding: 3vh 1vh;
+    padding: 1vh;
 }
 .headshot {
     max-height: 500px;
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.displayGrid {
+    display: grid;
 }
