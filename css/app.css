@@ -22,3 +22,9 @@ body {
 .displayGrid {
     display: grid;
 }
+.mainHeading {
+    font-size: 3rem;
+}
+.mainBullets {
+    font-size: 120%;
+}
